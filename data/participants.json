@@ -47,8 +47,8 @@
     "app_type": "signed-cycle-explorer",
     "pr_number": 13,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/13",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x992d29c149b0aec672d0694d81aab00e73fd67672f6a0b8a353699a246ac79f8",
+    "vault_address": "0xBdF06E3335C3D01eD8DAB71ea5232EAa6ed00Fb2",
+    "paid_at": "2026-05-29T07:10:44.658Z"
   }
 ]
